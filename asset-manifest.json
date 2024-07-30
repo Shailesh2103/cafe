@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/cafe/static/css/main.a53687fb.css",
+    "main.js": "/cafe/static/js/main.3408b3c8.js",
+    "static/js/453.e4f80538.chunk.js": "/cafe/static/js/453.e4f80538.chunk.js",
+    "static/media/HOT CLASSICS.jpg": "/cafe/static/media/HOT CLASSICS.d9af5ee276fc9dd6c660.jpg",
+    "static/media/about us.png": "/cafe/static/media/about us.92fcded8dadc4d0c1f5d.png",
+    "static/media/8.png": "/cafe/static/media/8.1f9ef7283dcbbb012741.png",
+    "static/media/HOT CLASSICS 1.jpg": "/cafe/static/media/HOT CLASSICS 1.dd6f83201c5bdc5001ca.jpg",
+    "static/media/7.png": "/cafe/static/media/7.de54ef547a7f35184abf.png",
+    "static/media/3.png": "/cafe/static/media/3.7410f34ca1f12b957dc9.png",
+    "static/media/4.png": "/cafe/static/media/4.503eeb6536513d84170d.png",
+    "static/media/1.png": "/cafe/static/media/1.eebdb9e00a9ddac27847.png",
+    "static/media/PlaywriteAT-Italic-VariableFont_wght.ttf": "/cafe/static/media/PlaywriteAT-Italic-VariableFont_wght.242ab38bcfc004f2ed07.ttf",
+    "static/media/PlaywriteBEVLG-VariableFont_wght.ttf": "/cafe/static/media/PlaywriteBEVLG-VariableFont_wght.46fcc166f1bd621146a4.ttf",
+    "static/media/chef.jpg": "/cafe/static/media/chef.b2a0504cd7c18bb6b243.jpg",
+    "static/media/5.png": "/cafe/static/media/5.cf514d072224dbc1f190.png",
+    "static/media/6.png": "/cafe/static/media/6.a699855773d2aa288741.png",
+    "static/media/01.jpg": "/cafe/static/media/01.05b31d2f5606315b32e0.jpg",
+    "static/media/2.png": "/cafe/static/media/2.0ff840a1e1196190473c.png",
+    "static/media/main.jpg": "/cafe/static/media/main.3aeae7ea9e243b20689e.jpg",
+    "static/media/PoetsenOne-Regular.ttf": "/cafe/static/media/PoetsenOne-Regular.22ae511e03fc2ed8d264.ttf",
+    "static/media/Poppins-Regular.ttf": "/cafe/static/media/Poppins-Regular.35d26b781dc5fda684cc.ttf",
+    "static/media/02.jpg": "/cafe/static/media/02.8bebc2d93411c2013260.jpg",
+    "static/media/parallex.jpg": "/cafe/static/media/parallex.54f3d8f20b1cfeedb26a.jpg",
+    "static/media/ChakraPetch-Bold.ttf": "/cafe/static/media/ChakraPetch-Bold.ac19a2618ff468c4d7a2.ttf",
+    "static/media/Proxima-Nova-Font.otf": "/cafe/static/media/Proxima-Nova-Font.7bc9ce404c297c24f210.otf",
+    "static/media/Jost-Regular.ttf": "/cafe/static/media/Jost-Regular.1efc84f2eaca6d0a4889.ttf",
+    "static/media/BebasNeue-Regular.ttf": "/cafe/static/media/BebasNeue-Regular.12e3683f9192436a7be8.ttf",
+    "static/media/logo.png": "/cafe/static/media/logo.e25b762c1d5946fbbc03.png",
+    "static/media/aboutuspages.jpg": "/cafe/static/media/aboutuspages.6007992c114744fe29d1.jpg",
+    "static/media/history-text_0_0.png": "/cafe/static/media/history-text_0_0.7a3582dfd2719a85d4ba.png",
+    "index.html": "/cafe/index.html",
+    "main.a53687fb.css.map": "/cafe/static/css/main.a53687fb.css.map",
+    "main.3408b3c8.js.map": "/cafe/static/js/main.3408b3c8.js.map",
+    "453.e4f80538.chunk.js.map": "/cafe/static/js/453.e4f80538.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a53687fb.css",
+    "static/js/main.3408b3c8.js"
+  ]
+}
